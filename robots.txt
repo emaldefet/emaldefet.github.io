@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://emaldefet.github.io/sitemap
+Sitemap: https://emaldefet.github.io/app/sitemap
+Sitemap: https://emaldefet.github.io/assets/sitemap
+Sitemap: https://emaldefet.github.io/css/sitemap
+Sitemap: https://emaldefet.github.io/includes/sitemap
+Sitemap: https://emaldefet.github.io/item/sitemap
+Sitemap: https://emaldefet.github.io/src/sitemap
